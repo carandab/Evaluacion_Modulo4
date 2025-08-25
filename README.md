@@ -1,6 +1,6 @@
 Este es un repositorio creado para evaluar el Módulo 4 del Bootcamp de Desarrollo Fullstack Python/Django de Talento Digital, ejecutado por SkillNest
 
-Este proyecto corresponde a un programa de manejon de una biblioteca.
+Este proyecto corresponde a un programa de manejo de una biblioteca.
 
 Para ello, se utilizan 2 clases principales Libro y Biblioteca, además de un archivo inventario.txt en el cual se registran los libros.
 
